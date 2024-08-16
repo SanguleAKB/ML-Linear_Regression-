@@ -10,3 +10,6 @@ RMSE :  1.48
 R-Squared = 0.85
 Cofficient or slope : 3.54
 Intercept :  66.34
+
+## file name :- simple-linear-regression 
+In this file you can see mathematical implementation of simple linear regression with two features one is height and another is weight
